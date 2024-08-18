@@ -1,0 +1,10 @@
+streamlit
+transformers
+tensorflow==2.13.0
+torch
+scikit-learn
+pyttsx3
+PyPDF2
+python-docx
+SpeechRecognition
+requests
